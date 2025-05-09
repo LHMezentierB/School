@@ -1,13 +1,16 @@
 body{
     align-content: center;
+    background-color:black;
 }
 h1{
     text-align: center;
     font-size: 3em;
+    color:white;
 }
 p{
     text-align: center;
     font-size:2em;
+    color:white;
 }
 ul{
     display:block;
