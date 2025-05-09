@@ -1,0 +1,17 @@
+body{
+    align-content: center;
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+}
+p{
+    text-align: center;
+    font-size:2em;
+}
+ul{
+    display:block;
+    margin-right: 30px;
+    text-align:center;
+    font-size:2em;
+}
